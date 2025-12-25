@@ -49,6 +49,25 @@ An AST-based static scanner that proactively detects:
 * **Static Analysis:** Radon & Python AST
 
 ---
+## 🚀 Deployment Guide
+
+1. InstallationClone the repo and install the required scientific and AI libraries.
+   git clone [https://github.com/yourusername/PyBlueprint.git](https://github.com/yourusername/PyBlueprint.git)
+   cd PyBlueprint
+   pip install -r requirements.txt
+   
+2. Launch the Architect Engine
+   Start the local server. The AI model (approx. 500MB) will auto-download on the first run.
+
+   streamlit run app.py
+   
+3. Usage
+   Paste Code: Input raw Python source code into the dashboard buffer.
+   Generate Blueprint: Click the analysis trigger.
+   Review:
+   - Check the Radar Chart for immediate health visualization.
+   - Read the Neural Brief for logic verification.
+   - Consult the Security Audit for vulnerabilities.
 
 ## 📂 Repository Structure
 
