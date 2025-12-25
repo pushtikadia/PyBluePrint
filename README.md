@@ -81,8 +81,12 @@ PyBlueprint_v2/
     └── inspector.py        # 🕵️ Static Analysis & Security Scanner
 
 ```
+---
+
 📄 License
 Distributed under the MIT License. See LICENSE for more information.
+
+---
 
 <p align="center">
   Created by <a href="https://github.com/pushtikadia"><b>Pushti Kadia</b></a>
