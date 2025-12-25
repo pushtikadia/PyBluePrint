@@ -152,3 +152,4 @@ if st.button("Generate Blueprint ⚡", type="primary", use_container_width=True)
         else:
 
             st.info("Structure looks solid. Ready for deployment.")
+
