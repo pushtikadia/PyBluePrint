@@ -79,3 +79,5 @@ PyBlueprint_v2/
 └── modules/
     ├── brain.py            # 🧠 AI Logic (Neural Network Interface)
     └── inspector.py        # 🕵️ Static Analysis & Security Scanner
+
+```
