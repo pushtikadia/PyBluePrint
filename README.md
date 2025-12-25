@@ -1,4 +1,4 @@
-# 🏗️ PyBlueprint
+# 🏗️ PyBluePrint
 
 > **The Software Physics & Neural Architecture Engine.**
 > *Decode Complexity. Visualize Technical Debt. Secure Your Logic.*
@@ -84,5 +84,5 @@ PyBlueprint_v2/
 ---
 
 <p align="center">
-  Created by <a href="https://github.com/pushtikadia"><b>Pushti Kadia</b></a>
+  PyBluePrint - Created by <a href="https://github.com/pushtikadia"><b>Pushti Kadia</b></a>
 </p>
