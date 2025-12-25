@@ -49,6 +49,7 @@ An AST-based static scanner that proactively detects:
 * **Static Analysis:** Radon & Python AST
 
 ---
+
 ## 🚀 Deployment Guide
 
 1. InstallationClone the repo and install the required scientific and AI libraries.
