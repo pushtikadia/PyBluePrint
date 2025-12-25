@@ -1,4 +1,4 @@
-# 🏗️ PyBlueprint: Architect Edition
+# 🏗️ PyBlueprint
 
 > **The Software Physics & Neural Architecture Engine.**
 > *Decode Complexity. Visualize Technical Debt. Secure Your Logic.*
