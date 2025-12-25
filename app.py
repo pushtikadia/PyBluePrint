@@ -150,4 +150,5 @@ if st.button("Generate Blueprint ⚡", type="primary", use_container_width=True)
         elif metrics['maintainability_index'] < 60:
             st.warning("Low Maintainability: Code is dense. Add comments and meaningful variable names.")
         else:
+
             st.info("Structure looks solid. Ready for deployment.")
