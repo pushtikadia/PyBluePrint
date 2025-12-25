@@ -84,4 +84,6 @@ PyBlueprint_v2/
 📄 License
 Distributed under the MIT License. See LICENSE for more information.
 
-<div align="center"> <sub><b>PyBlueprint</b> • Pushti Kadia[https://github.com/pushtikadia]</sub> </div>
+<p align="center">
+  Created by <a href="https://github.com/pushtikadia"><b>Pushti Kadia</b></a>
+</p>
